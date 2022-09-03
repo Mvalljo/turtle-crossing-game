@@ -1,4 +1,4 @@
-# turtle-crossing-game
+# Turtle Crossing Game
 
 Day 23 from 100 Days of code
 
